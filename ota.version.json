@@ -1,9 +1,9 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "isSemver": true,
   "targetVersions": {
     "android": ["1.0.0"],
     "ios": ["1.0"]
   },
-  "releaseNotes": "falsh messsgae comment"
+  "releaseNotes": "auto updatre"
 }

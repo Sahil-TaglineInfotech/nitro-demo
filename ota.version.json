@@ -3,7 +3,7 @@
   "isSemver": true,
   "targetVersions": {
     "android": ["1.0.0"],
-    "ios": ["1.0.0"]
+    "ios": ["1.0"]
   },
   "releaseNotes": "falsh messsgae"
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "isSemver": true,
   "targetVersions": {
     "android": ["1.0.0"],
     "ios": ["1.0.0"]
   },
-  "releaseNotes": "Initial OTA try"
+  "releaseNotes": "Initial OTA Retry"
 }
